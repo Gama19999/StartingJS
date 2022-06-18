@@ -1,0 +1,27 @@
+/* 
+    Created on : 16 jun. 2022, 22:40:31
+    Author     : gamars
+*/
+
+header {
+    height: 30pt;
+    background-color: purple;
+    border-radius: 55pt;
+    text-align: center;
+    color: #081d61;
+    font-family: 'Comic Sans MS';
+    font-size: 30px;
+    padding: 10px;
+    cursor: grab;
+    opacity: 0.79;
+}
+
+body {
+    background-image: url("https://walli.quosmos.com/files/thumbs/e/2/9/e293ae72ba05193f997f6b94f0dfe8e1ae297d48/polygon1Square__800_800.png");
+    background-position: top;
+    background-repeat: repeat-x;
+    font-family: 'Comic Sans MS';
+    font-size: large;
+    font-weight: bolder;
+    color: #09132f;
+}
